@@ -1,0 +1,19 @@
+{
+  "$schema": "https://www.anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tianguis",
+  "version": "0.0.1",
+  "description": "Mando's magnificent menagerie of plugins",
+  "owner": {
+    "name": "Mando Escamilla",
+    "email": "mando@mando.org"
+  },
+  "plugins": [
+    {
+      "name": "jj",
+      "version": "0.0.1",
+      "description": "Instructions for using Jujutsu (jj)"
+      "source": "./plugins/jj",
+      "category": "development"
+    },
+  ]
+}
