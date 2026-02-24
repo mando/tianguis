@@ -11,9 +11,9 @@
     {
       "name": "jj",
       "version": "0.0.1",
-      "description": "Instructions for using Jujutsu (jj)"
+      "description": "Instructions for using Jujutsu (jj)",
       "source": "./plugins/jj",
       "category": "development"
-    },
+    }
   ]
 }
